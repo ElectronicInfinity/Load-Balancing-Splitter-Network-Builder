@@ -1,0 +1,4 @@
+matplotlib
+gradio
+networkx
+pydot
