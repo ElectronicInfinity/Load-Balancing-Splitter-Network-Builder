@@ -5,4 +5,4 @@ also if you ever needed to decide on an outcome with probabillity 1/3 using only
 
 THIS PROJECT NEEDS GRAPHWIZ INSTALLED ON YOUR SYSTEM TO RUN PROPERLY (find on https://graphviz.org/download/) OTHERWISE THE GRAPHS WILL LOOK WIERD
 
-!Examples/image2.png
+![Examples/image2.png]
